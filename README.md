@@ -1,6 +1,8 @@
 # Moon Terrain Segmentation 🌕
 
-This project focuses on segmenting lunar terrain images to identify hazardous rocks that might pose a threat to lunar rovers. By leveraging deep learning and computer vision, it provides a robust pipeline for preprocessing, training, and deploying a segmentation model.
+This project focuses on segmenting lunar terrain images to identify hazardous rocks that might pose a threat to lunar rovers. By leveraging deep learning and computer vision, it provides a robust pipeline for preprocessing, training, and deploying a segmentation model. 
+
+[Click Here](https://youtu.be/uTlCakmf3UM) to see the demonstration of Moon Terrain Segmentation
 
 ## 🚀 Key Features
 - **UNet with ResNet-34 Backbone**: State-of-the-art architecture for image segmentation with a transfer learning backbone.
