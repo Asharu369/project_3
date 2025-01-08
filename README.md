@@ -16,8 +16,7 @@ Follow these steps to set up the project locally:
 
 ### Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/Asharu369/project_3.git
 ```
 
 ### Create a Virtual Environment
